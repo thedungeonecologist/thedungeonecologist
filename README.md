@@ -1,4 +1,6 @@
-## Hi there 👋
+## Biography
+___
+Darren Shoemaker is a Ph.D. candidate in Wildlife, Fisheries & Aquaculture in the College of Forest Resources at Mississippi State University. His primary research interests are examining climatic influences on aquatic ecosystems at broad scales. His work integrates the fields of ecology, climate science, machine learning, bioinformatics, and human dimensions. Understanding climatic influences on ecosystems is increasingly relevant in the 21st century. This work assists conservation managers to make decisions sensitive to future climate states.   
 
 <!--
 **thedungeonecologist/thedungeonecologist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
