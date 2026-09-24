@@ -4,6 +4,7 @@ Darren Shoemaker recently completed his Ph.D. in Wildlife, Fisheries & Aquacultu
 ## Blog
 ___
 See my recent work on my GitHub Pages site.
+
 https://thedungeonecologist.github.io/darrenshoemaker/
 
 <!--
