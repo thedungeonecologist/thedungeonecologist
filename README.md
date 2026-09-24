@@ -1,6 +1,10 @@
 ## Biography
 ___
 Darren Shoemaker recently completed his Ph.D. in Wildlife, Fisheries & Aquaculture at Mississippi State University. His primary research interests are examining climatic influences on aquatic ecosystems at broad scales. His work integrates the fields of ecology, climate science, machine learning, and bioinformatics. Understanding climatic influences on ecosystems is increasingly relevant in the 21st century to guide natural resources management and policymakers when making decisions sensitive to future climate states.   
+## Blog
+___
+See my recent work on my GitHub Pages site.
+https://thedungeonecologist.github.io/darrenshoemaker/
 
 <!--
 **thedungeonecologist/thedungeonecologist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
